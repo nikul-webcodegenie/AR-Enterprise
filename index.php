@@ -19,13 +19,6 @@
 
     <!-- Page Content -->
     <div id="page-content">
-        <section id="banner">
-            <div class="block has-dark-background background-color-default-darker center text-banner">
-                <div class="container">
-                    <h1 class="no-bottom-margin no-border">Lorem Ipsum</h1>
-                </div>
-            </div>
-        </section><!-- /#banner -->
         <section id="our-services" class="block">
             <div class="container">
                 <header class="section-title"><h2>Our Services</h2></header>

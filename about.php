@@ -18,8 +18,12 @@
                         <header><h1>About Us</h1></header>
                         <section id="ceo-section" class="center">
                             <header class="center"><div class="cite-title">Serving you since 1999</div></header>
-                            <div class="cite no-bottom-margin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dolor purus,
-                                porta eget justo et, pulvinar vehicula dolor.  Sed at turpis at augue convallis auctor ut in mi
+                            <div class="cite no-bottom-margin">Force, Torque and Pressure Measurement are our areas of specialty and 
+								we have extensive multi-faceted experience and knowledge base in these areas. 
+								We have supplied numerous products and systems for a variety of applications, 
+								within India and abroad. We are proud of the highest professional and ethical standards 
+								that we have set for ourselves. We are partners in every project from conceptualization 
+								to customer support, and are always available as required.
                             </div>
                             <hr class="divider">
                             <a href="agent-detail.html" class="image"><img alt="" src="assets/img/agent-01.jpg"></a>

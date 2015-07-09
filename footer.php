@@ -7,9 +7,9 @@
                         <div class="col-md-3 col-sm-3">
                             <article>
                                 <h3>About Us</h3>
-                                <p>Vel fermentum ipsum. Suspendisse quis molestie odio. Interdum et malesuada fames ac ante ipsum
-                                    primis in faucibus. Quisque aliquet a metus in aliquet. Praesent ut turpis posuere, commodo odio
-                                    id, ornare tortor
+                                <p>Force, Torque and Pressure Measurement are our areas of specialty and 
+								we have extensive multi-faceted experience and knowledge base in these areas. 
+								We have supplied numerous products and systems for a variety of applications...
                                 </p>
                                 <hr>
                                 <a href="about.php" class="link-arrow">Read More</a>
